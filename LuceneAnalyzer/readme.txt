@@ -1,0 +1,2 @@
+Lucene core模块中的 StandardAnalyzer英文分词器使用：LuceneStandardAnalyzerTest
+Lucene提供的中文分词器模块，lucene-analyzers-smartcn:Lucene 的中文分词器 SmartChineseAnalyzer使用：LuceneSmartChineseAnalyzerTest

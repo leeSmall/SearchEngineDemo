@@ -1,4 +1,4 @@
-IKAnalyze中文分词器集成：
+IKAnalyze中文分词器集成 IKAnalyzer的停用词和新词：
 IKAnalyzer是开源、轻量级的中文分词器，应用比较多
 最先是作为lucene上使用而开发，后来发展为独立的分词组件。只提供到Lucene 4.0版本的支持。我们在4.0以后版本Lucene中使用就需要简单集成一下。
 需要做集成，是因为Analyzer的createComponents方法API改变了
